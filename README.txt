@@ -1,0 +1,1 @@
+BiConnect - demo static site inspired by BiCupid.com (original content). This package contains static HTML/CSS/JS files for a demo landing site.
